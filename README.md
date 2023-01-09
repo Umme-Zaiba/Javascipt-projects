@@ -1,3 +1,3 @@
 # Javascipt-projects
 
-There are (wil be-future) very basic javascript projects.
+There are (will be-future) very basic javascript projects.
