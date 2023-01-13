@@ -1,3 +1,3 @@
 # Javascipt-projects
 
-There are (wil be-future) very basic javascript projects.
+Digital Clock with a very FUNKY style.
